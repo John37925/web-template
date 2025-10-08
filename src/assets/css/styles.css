@@ -6,9 +6,9 @@
 }
 
 :root {
-  --bs-primary: #0480c7;
-  --bs-primary-rgb: 4, 128, 199;
-  --bs-primary-text-emphasis: #0e4a6d;
+  --bs-primary: #930f8a;
+  --bs-primary-rgb: 147, 15, 138;
+  --bs-primary-text-emphasis: #67033f;
   --bs-secondary-rgb: 130, 0, 216;
   --bs-heading-color: var(--bs-primary);
 }
@@ -110,7 +110,7 @@ body {
   content: "";
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, #3BC7F6 0%, #83f755 29.8%, #33978f 69.3%, #1821a0 100%);
+  background: linear-gradient(135deg, #ee00ff 0%, #de7a28 29.8%, #cf4c6f 69.3%, #a01818 100%);
   opacity: 1;
   pointer-events: none;
   z-index: 10;
